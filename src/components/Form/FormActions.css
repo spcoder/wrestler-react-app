@@ -1,0 +1,10 @@
+.form-actions {
+  margin-top: 2rem;
+}
+
+.form-actions > button, .form-actions > a {
+  display: block;
+  margin-bottom: 0.5rem;
+  width: 100%;
+  text-align: center;
+}

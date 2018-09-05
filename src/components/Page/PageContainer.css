@@ -1,0 +1,7 @@
+.page-container {
+  margin: auto;
+}
+
+.page-container.-slim {
+  max-width: 500px;
+}
